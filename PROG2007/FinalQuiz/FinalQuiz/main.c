@@ -41,7 +41,7 @@ int main(int argc, const char * argv[]) {
 //        count += 1;
 //    } while (count<16);
 //
-//    fclose(fp);
+//    fclose(fp); 
     int a = (4*243.5)+(4*137.5)+(9*55.5);
     printf("%d\n", a);
     
